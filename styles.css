@@ -1,0 +1,21 @@
+body {
+    background: lightskyblue;
+    color: white;
+}
+
+h1,p {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+li {
+    color: black;
+}
+
+.gap {
+    height: 100px;
+}
